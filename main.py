@@ -29,8 +29,7 @@ def hello():
     Returns:
         A string with the words 'Hello World!'.
     """
-    return "Hello World!
-my name is kittu 😺"
+    return "Hello World!"
 
 
 if __name__ == "__main__":
